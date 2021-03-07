@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T18:13:50.656Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" version="14.4.3" etag="-vQV7hmdqoPQSJnj813K" type="github"><diagram id="kCfWiObW2PxxcEZuiSjx">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-07T18:29:01.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="M_0V9_y7WVgS9vmIEKpu" version="14.4.3" type="github">
+  <diagram id="kCfWiObW2PxxcEZuiSjx" name="Page-1">
+    <mxGraphModel dx="2066" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ageFbnpNfMNFTigWsyEC-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="480" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-5" value="Vzorkovací&lt;br&gt;interval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-6" value="Fronta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-9" value="Vzorkovací&lt;br&gt;interval" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="262.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-10" value="Fronta" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="262.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="250" as="sourcePoint" />
+            <mxPoint x="65" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-13" value="Zdroj dat 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="190" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;Monitorované položky&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-16" value="&lt;font style=&quot;font-size: 18px&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="258.75" y="230" width="35" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-17" value="Zdroj dat 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="262.5" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-18" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ageFbnpNfMNFTigWsyEC-13" target="ageFbnpNfMNFTigWsyEC-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="630" as="sourcePoint" />
+            <mxPoint x="370" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-19" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="282" as="sourcePoint" />
+            <mxPoint x="200" y="282" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-20" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Odběr&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-21" value="Interval publikování" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="190" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-23" value="Povolit publikování" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="80" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-24" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ageFbnpNfMNFTigWsyEC-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="245" as="sourcePoint" />
+            <mxPoint x="410" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ageFbnpNfMNFTigWsyEC-21" target="ageFbnpNfMNFTigWsyEC-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="630" as="sourcePoint" />
+            <mxPoint x="370" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-27" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ageFbnpNfMNFTigWsyEC-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="500" as="sourcePoint" />
+            <mxPoint x="720" y="245" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Klient&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
