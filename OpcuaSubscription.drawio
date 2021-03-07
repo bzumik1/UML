@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T18:29:01.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="M_0V9_y7WVgS9vmIEKpu" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T18:47:58.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="qg7ktF0GDYU8x4Hjgwf7" version="14.4.3" type="github">
   <diagram id="kCfWiObW2PxxcEZuiSjx" name="Page-1">
-    <mxGraphModel dx="2066" dy="1185" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -78,6 +78,21 @@
         </mxCell>
         <mxCell id="ageFbnpNfMNFTigWsyEC-28" value="&lt;font style=&quot;font-size: 18px&quot;&gt;Klient&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="720" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-29" value="&lt;font style=&quot;font-size: 18px&quot;&gt;...&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="60" y="230" width="35" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-30" value="" style="endArrow=classic;html=1;entryX=0.002;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="ageFbnpNfMNFTigWsyEC-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="209.71" as="sourcePoint" />
+            <mxPoint x="400" y="209.71" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ageFbnpNfMNFTigWsyEC-31" value="" style="endArrow=classic;html=1;entryX=0.002;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ageFbnpNfMNFTigWsyEC-10" target="ageFbnpNfMNFTigWsyEC-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="359.84" y="360" as="sourcePoint" />
+            <mxPoint x="400.00000000000006" y="386.38" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
